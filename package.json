@@ -1,0 +1,17 @@
+{
+  "name": "babel-stop-traversal",
+  "version": "1.0.0",
+  "description": "A demo repo regarding a possible missbehaviour of the stop() method when called in ReferencedIdentifier nodes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Patrik Pyrzanowski",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/parser": "^7.16.7",
+    "@babel/traverse": "^7.16.7"
+  },
+  "type": "commonjs"
+}
